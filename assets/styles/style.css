@@ -2513,6 +2513,12 @@ button:focus {
   padding: 1.875rem 1.875rem 1.5rem;
   margin-top: 2.5rem;
 }
+
+.jst {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .review-item > * {
   min-width: 0;
 }
