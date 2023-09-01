@@ -1197,6 +1197,9 @@ button:focus {
 .shadow {
   box-shadow: 0 2.5rem 3.125rem rgba(103, 118, 128, 0.1) !important;
 }
+.shadow2 {
+  box-shadow: 0 2.5rem 3.125rem rgb(185 185 185) !important;
+}
 .shadow::before {
   content: '';
   box-shadow: 0 1.875rem 3.125rem rgba(103, 118, 128, 0.2);
