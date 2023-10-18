@@ -1145,7 +1145,7 @@ button:focus {
 }
 .box-inner::before, .box-inner::after {
   content: '';
-  background-color: #F5F8F9;
+  background-color: #FFFFFF;
   height: 100%;
   position: absolute;
   top: 0;
